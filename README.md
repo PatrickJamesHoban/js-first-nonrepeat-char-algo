@@ -1,7 +1,5 @@
 # JavaScript Algorithm Practice
 
-https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/train/javascript
-
 ## Given a string of characters, write a function to search through the string and return the first non-repeated character.
 
 ### Challenge:
